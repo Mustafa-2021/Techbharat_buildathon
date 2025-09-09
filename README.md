@@ -1,8 +1,25 @@
-# React
+# Snack Score web application
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
-## 🚀 Features
+## Drive video link to my project:
+https://drive.google.com/file/d/1392ztiLB9z66PMArpjVpqSDwXofiHRb-/view?usp=sharing
+
+
+## About
+
+Snack Score app transforms ordinary product information into actionable insights. 
+Whether you're evaluating nutritional value, ingredient quality, or compliance standards, 
+the app helps users see at a glance how packed foods measure up.
+
+The application has 4 main features:-
+- Barcode Scanning
+- Enter barcode number
+- Enter and find details for the product of your choice
+- Ingredient OCR functionality
+
+
+
+## 🚀 Teckstack
 
 - **React 18** - React version with improved rendering and concurrent features
 - **Vite** - Lightning-fast build tool and development server
@@ -98,10 +115,3 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
-
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
-
-Built with ❤️ on Rocket.new
